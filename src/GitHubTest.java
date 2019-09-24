@@ -1,11 +1,7 @@
 import java.util.Scanner;
 public class GitHubTest {
     public static void main(String[] args) {
-        //	SpringApplication.run(TestSpringBootApplication.class, args);
-		/*int i = 1;
-		boolean b = !(i++ == 3) ^ (i++ ==2) && (i++==3);
-		System.out.println(b);
-		System.out.println(i);*/
+
         Scanner input = new Scanner(System.in);
         int[] shu = new int[5];
         System.out.print("输入数字：");
