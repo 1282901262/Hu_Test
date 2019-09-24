@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class GitHubTest {
     public static void main(String[] args) {
 
+
         Scanner input = new Scanner(System.in);
         int[] shu = new int[5];
         System.out.print("输入数字：");
